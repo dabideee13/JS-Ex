@@ -1,1 +1,1 @@
-# JS-Ex
+# JS-Exercises
